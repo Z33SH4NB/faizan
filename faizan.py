@@ -1,2 +1,2 @@
-from faizan import menu
-menu()
+from faaizan import loginkey
+loginkey()
