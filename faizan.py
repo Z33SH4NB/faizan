@@ -1,2 +1,2 @@
-from faaizan import loginkey
+from ZXB import loginkey
 loginkey()
